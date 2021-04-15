@@ -1,3 +1,9 @@
+# Svelte + Tailwind CSS Template
+
+This is a Svelte template that is ready for use with Tailwind CSS.
+
+---
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
